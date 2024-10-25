@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**vfernandes7/vfernandes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-320427140/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My name is Vinicius Fernandes
+
+(Python | Data Analysis | Power BI | Web Scrapping | Automation | API | Java | Salesforce)
+
+- Senior Business Analyst at Hotmart
+- Graduated in Mechanical Engineering at Federal University of Minas Gerais (UFMG)
+- Automation and tools integration specialist
+- Power BI and data analysis specialist
+- Backend Development (Java Spring Boot)
+- Salesforce Marketing Cloud knowledge
